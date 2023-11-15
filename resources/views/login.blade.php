@@ -5,7 +5,7 @@
     <div class="d-table-cell align-middle">
 
         <div class="text-center mt-4">
-            <h1 class="h2">Magang Latihan Laravel</h1>
+            <h1 class="h2">Latihan Laravel</h1>
             <p class="lead">Silahkan login untuk melanjutkan</p>
         </div>
 
